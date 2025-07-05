@@ -1,0 +1,12 @@
+project1/
+├── data/
+│   ├── dataset.csv
+│   └── models/
+├── src/
+│   ├── __init__.py
+│   ├── feature_extractor.py
+│   ├── model.py
+│   ├── url_processor.py
+│   └── gui.py
+├── requirements.txt
+└── main.py
